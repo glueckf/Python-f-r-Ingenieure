@@ -1,25 +1,25 @@
-# Python für Ingenieure
+# Python for Engineers
 
-Dieses Projekt enthält mehrere Jupyter-Notebooks, welche sich mit der Datenverarbeitung und Analyse von Ingenieursdaten beschäftigen.
+A collection of Jupyter notebooks focusing on data processing and analysis of engineering data.
 
-## Projektziele
+## Project Goals
 
-Dieses Projekt wurde im Rahmen des Moduls "Python für Ingenieure" entwickelt und soll verschiedene Analyse- und Datenverarbeitungsmethoden vermitteln und Python in verschiedensten Settings für Ingenieure näher bringen.
+This project was developed as part of the "Python for Engineers" module to teach various data analysis and processing methods, introducing Python in different engineering contexts.
 
-Es demonstriert die Anwendung von Python in der technischen Datenanalyse mit Fokus auf:
-- Strukturierte Analyse in Jupyter Notebooks
-- Implementierung von Engineering-Workflows
+Key focus areas:
+- Structured analysis using Jupyter Notebooks
+- Implementation of engineering workflows
 
-## Technologien
+## Technologies
 
-- Hauptsprache: Python
-- Entwicklungsumgebung: Jupyter Notebook
-- Datenverarbeitung: Pandas, NumPy
-- Datenvisualisierung: Matplotlib
-- Dateiformate: CSV, IPYNB
+- Main Language: Python
+- Development Environment: Jupyter Notebook
+- Data Processing: Pandas, NumPy
+- Data Visualization: Matplotlib
+- File Formats: CSV, IPYNB
 
-## Projektstruktur
+## Project Structure
 
-Das Projekt besteht aus mehreren Hausaufgaben, Praxisabgaben und einer finalen Abgabe.
+The project consists of multiple homework assignments, practical submissions, and a final project.
 
 ## Status
