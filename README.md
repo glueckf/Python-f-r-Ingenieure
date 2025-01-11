@@ -1,4 +1,4 @@
-# Python for Engineers
+# Python für Ingenieure
 
 A collection of Jupyter notebooks focusing on data processing and analysis of engineering data.
 
