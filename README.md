@@ -1,10 +1,10 @@
-# Python für Ingenieure
+# Python for Engineers
 
 A collection of Jupyter notebooks focusing on data processing and analysis of engineering data.
 
 ## Project Goals
 
-This project was developed as part of the "Python für Ingenieure" module to teach various data analysis and processing methods, introducing Python in different engineering contexts.
+This project was developed as part of the "Python für Ingenieure" module at TU Berlin to teach various data analysis and processing methods, introducing Python in different engineering contexts.
 
 Key focus areas:
 - Structured analysis using Jupyter Notebooks
