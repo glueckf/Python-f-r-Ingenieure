@@ -22,4 +22,11 @@ Key focus areas:
 
 The project consists of multiple homework assignments, practical submissions, and a final project.
 
+Current project structure:
+- `ha00/` - Hausaufgabe 0
+- `ha01/` - Hausaufgabe 1
+- `ha02/` - Hausaufgabe 2
+- `pa03/` - Praxisaufgabe 3
+
 ## Status
+Die Project is currently in active development with new submissions being added regularly. The final submission will be the exam. 
